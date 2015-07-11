@@ -5142,7 +5142,7 @@ ITEM_20150701_005141	Restores HP every 2 seconds. {nl}384 HP is restored over 15
 ITEM_20150701_005142	Restores HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds.
 ITEM_20150701_005143	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds.
 ITEM_20150701_005144	The fruit has a soft pulp. There are small hairs on the skin.
-ITEM_20150701_005145	
+ITEM_20150701_005145	The fruit smells nasty. But it tastes like a piece of heaven.
 ITEM_20150701_005146	Helps recover 80-100 HP. The meat is readily available. Fine to eat raw. Use the mouse right-click
 ITEM_20150701_005147	Add 166 EXP and 127 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use.
 ITEM_20150701_005148	Add 895 EXP and 689 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use.
@@ -5268,11 +5268,11 @@ ITEM_20150701_005267	Magic Boost Increase Potion LV15
 ITEM_20150701_005268	Increases Magic Boost by 66 for 180 seconds. {nl}Right-click to use. Cooldown 60 seconds.
 ITEM_20150701_005269	
 ITEM_20150701_005270	
-ITEM_20150701_005271	
-ITEM_20150701_005272	
+ITEM_20150701_005271	LV1 Gem Abrasive Agent
+ITEM_20150701_005272	LV2 Gem Abrasive Agent
 ITEM_20150701_005273	Complex gear
 ITEM_20150701_005274	
-ITEM_20150701_005275	
+ITEM_20150701_005275  Dullahan Armor Fragment
 ITEM_20150701_005276	
 ITEM_20150701_005277	
 ITEM_20150701_005278	
@@ -5561,6 +5561,6 @@ ITEM_20150706_005560
 ITEM_20150706_005561	
 ITEM_20150706_005562	
 ITEM_20150706_005563	
-ITEM_20150706_005564	
+ITEM_20150706_005564	Sticky Resin
 ITEM_20150706_005565	
 ITEM_20150706_005566	
